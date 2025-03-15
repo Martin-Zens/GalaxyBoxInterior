@@ -288,8 +288,41 @@
         >
         </div>
 
-        <div class="product-single__description rte">
-          {{ product.description }}
+        <div class="rte">
+
+        <div class="container">
+          <div class="selector">
+              <div class="tab tab-active">
+                  Description
+              </div>
+
+              {%  unless product.metafields.description.details == blank %} 
+              <div class="tab">
+                  Details
+              </div>
+              {% endunless %}
+              
+              <div class="tab">
+                  Shipping
+              </div>
+          </div>
+          <div class="content">
+              <div id="Description" class="content-body show-active">
+                {{ product.description }}
+              </div>
+                {%  unless product.metafields.description.details == blank %}  
+                   <div id="Details" class="content-body">
+          	           {{ product.metafields.description.details }}                                             
+                   </div>
+                {% endunless %} 
+              <div id="Shipping" class="content-body">
+                  <p> {{section.settings.shipping_info}} </p>
+              </div>
+          </div>
+        </div>
+
+
+         
         </div>
 
         {% if section.settings.show_share_buttons %}
@@ -709,6 +742,11 @@
         "zh-TW": "啟用影片循環功能"
       },
       "default": false
+    },
+    {
+      "type": "text",
+      "id": "shipping_info",
+      "label": "Shipping Information"
     }
   ]
 }

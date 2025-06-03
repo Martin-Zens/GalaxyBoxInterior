@@ -1,63 +1,24 @@
-<h1>Shopify 1.0 Interior Design Store</h1>
+<h2>Affiliate Page</h2>
 
-<!--
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
--->
+![AffiliatePage](https://github.com/user-attachments/assets/bac39a99-9e14-49e5-b658-66a73aedcd12)
 
-<h2>Description</h2>
-A straight forward one-product Shopify Dropshipping store.
-Customized with custom coded Affiliate Pages, Wholesale-Pages, FAQ-Sections and dynamic Product description tabs
-<br />
+----------------------------------------------------------
+
+<h2>Customized FAQ-Page</h2>
 
 
-<h2>Languages and Utilities Used</h2>
+![CustomizerFAQ](https://github.com/user-attachments/assets/e2d1e143-df52-4a49-840b-093d1b9ce469)
 
-- <b>HTML</b> 
-- <b>CSS</b>
-- <b>JavaScript</b>
-- <b>Shopify Liquid</b>
 
-<h2>Environments Used </h2>
+----------------------------------------------------------
 
-- <b>VS-Code</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Information Table</h2>
 
-<p align="center">
-Launch the Utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
+
+https://github.com/user-attachments/assets/866233ea-5f11-41f3-87fa-66cf840f86be
+
+
+
